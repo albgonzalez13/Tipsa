@@ -4,7 +4,7 @@
 # Tipsa
 Servicio PHP para integrar con la API SOAP de TIPSA. Compatible con Laravel y otros proyectos PHP
 
-Este paquete proporciona una clase de servicio `TipsaService` que permite integrar aplicaciones Laravel con los Web Services SOAP del transportista TIPSA.
+Este paquete proporciona una clase de servicio `TipsaService` que permite integrar aplicaciones Laravel con los Web Services SOAP de la agencia de transportes TIPSA.
 
 Permite realizar operaciones como:
 
